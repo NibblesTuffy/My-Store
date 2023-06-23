@@ -178,10 +178,3 @@ Project Link: [https://github.com/NibblesTuffy/My-Store.git](https://github.com/
 [Netlify.com]:https://img.shields.io/badge/netlify-gray?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [Netlify-url]:https://www.netlify.com/
 
-- React Router 
-- Vite #646CFF
-- Auth0 #EB5424
-- Stripe #008CDD
-- .ENV #ECD53F
-- styled-components #DB7093
-- Netlify #00C7B7
